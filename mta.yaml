@@ -30,6 +30,7 @@ modules:
           url: '~{srv-url}'
       - name: mycapapp-auth
 
+      
   - name: mycapapp-srv
     type: nodejs
     path: gen/srv
